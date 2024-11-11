@@ -1,0 +1,33 @@
+section h4{
+padding-top: 64px ;
+}
+p{
+  color: var(--text-secondary);
+}
+#padding{
+  padding-bottom: 64px;
+}
+ul{
+    color: var(--accent-blue);
+    padding-left: 24px;
+  }
+  section ul{
+    padding-bottom: 40px;
+  }  
+.cor1{
+  color: var(--accent-purple);
+}
+.cor2{
+  color: var(--accent-pink);
+}
+.cor3{
+   color: var(--accent-orange);
+}
+
+.divisor{
+  color: var(--border-prymary);
+}
+.space{
+  text-align: center;
+  padding-top: 40px;
+}
